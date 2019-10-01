@@ -31,6 +31,9 @@ body {
 .navbar-dark {
   background-color: #512DA8; }
 
+.navbar-dark {
+  background-color: #512DA8; }
+
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -57,10 +60,10 @@ body {
   background-color: #9575CD;
   padding-top: 10px; }
 
-.modal-heder {
+.modal-header {
   background-color: #512DA8;
   color: floralwhite; }
-  .modal-heder .close {
+  .modal-header .close {
     color: floralwhite; }
 
 .modal-body {
